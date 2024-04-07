@@ -20,6 +20,3 @@ KanyeREST is a C# application built using .NET Core that simulates a dialogue be
 3. Build and run the application.
 4. Enjoy the humorous dialogue between Kanye West and Ron Swanson!
 
-## License
-This project is licensed under the [MIT License](link-to-license-file).
-
